@@ -1,7 +1,7 @@
 "# proekt12b-web-appbusters" 
 
 To run in docker:
-    1) stop you local redis and postgresql servers
+    1) stop your local redis and postgresql servers
     2) go to two/setting.py and set USE-DOCKER to True
     3) open folder in terminal and write following commands:
         - docker-compose up -d --build
