@@ -1,1 +1,3 @@
 2022-07-13 12:32:44,508 WARNING User valik@mail.ru authenticated
+2022-10-21 18:35:24,998 WARNING User failed to register, cause: Password should be at least 6 characters long
+2022-10-21 18:35:49,655 WARNING User alekseymrvsk@yandex.by authenticated
